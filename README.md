@@ -50,5 +50,5 @@ npm start
 ## Improvements needed
 1. More practice on React, Django, and Python
 2. Study more about how databases and apis work
-3. Resolve remaining requirements
-4. Do another full-stack project with successful deployment
+3. Research more about AWS and deployment
+4. Resolve remaining requirements
