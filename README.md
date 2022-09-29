@@ -1,7 +1,5 @@
 # django-pokemon-react
 
-Technical assessment by Reluvate Technologies
-
 ## Steps to run this program:
 1. Git clone
 2. cd django-pokemon-react
