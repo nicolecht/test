@@ -7,19 +7,20 @@
 ```
 pipenv shell
 ```
-4. Install dependencies
+4. cd poke_project
+5. Install dependencies
 ```
  pip install django djangorestframework django-cors-headers djangorestframework-simplejwt djoser
 ```
-5. Run Server
+6. Run Server
 ```
 python manage.py runserver
 ```
-6. Open another new terminal
+7. Open another new terminal
 ```
 cd django-pokemon-react/poke_project_frontend
 ```
-7. Run React
+8. Run React
 ```
 npm start
 ```
