@@ -16,11 +16,12 @@ pipenv shell
 ```
 python manage.py runserver
 ```
-7. Open another new terminal
+7. Access Django Admin via http://127.0.0.1:8000/admin/
+8. Open another new terminal
 ```
 cd django-pokemon-react/poke_project_frontend
 ```
-8. Run React
+9. Run React
 ```
 npm start
 ```
