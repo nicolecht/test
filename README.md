@@ -18,14 +18,12 @@ python manage.py runserver
 ```
 7. Access Django Admin via http://127.0.0.1:8000/admin/
 8. Open another new terminal
-```
-cd django-pokemon-react/poke_project_frontend
-```
-9. Run React
+9. cd django-pokemon-react/poke_project_frontend
+10. Run React
 ```
 npm start
 ```
-10. Access React frontend via http://localhost:3000/
+11. Access React frontend via http://localhost:3000/
 
 ## Requirements I struggled with and have not complete
 1. Setting up User Authentication
