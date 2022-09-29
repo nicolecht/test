@@ -25,6 +25,7 @@ cd django-pokemon-react/poke_project_frontend
 ```
 npm start
 ```
+10. Access React frontend via http://localhost:3000/
 
 ## Requirements I struggled with and have not complete
 1. Setting up User Authentication
